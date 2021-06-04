@@ -43,7 +43,7 @@
         });
       })
     </script>
-      <input type ='button' class="btn btn-warning"  value = 'Regresar' 
+      <input type ='button' class="btn btn-warning"  value = 'Continuar' 
         id="back" onclick="location.href = '/info'"/><br><br>
     </div>
     <br>
